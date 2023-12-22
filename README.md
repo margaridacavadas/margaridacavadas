@@ -4,7 +4,7 @@
 
 I am a full-stack developer. I am passionate about learning and using what I learn to make the world more accessible and equal to everyone.
 The technologies I mostly work with include Java, JavaScript, mySQL, HTML and CSS. 
-I concluded a full-stack programming bootcamp at the end of 2021 and have been teaching everything that I learned to other people like me, who want to change their life.
+I concluded a full-stack programming bootcamp at the end of 2022 and have been teaching everything that I learned to other people like me, who want to change their life.
 
 I am currently working at Code for All_ as Padawan Master Coder (aka trainer).
 
