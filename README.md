@@ -1,6 +1,6 @@
 ## Hello, I'm Margarida 🌼
 
-![animatedbanner](https://github.com/margaridacavadas/margaridacavadas/assets/119407492/944178d6-4cab-4de7-b3de-6b2367f097ff)
+![animatedbanner](https://github.com/margaridacavadas/margaridacavadas/assets/119407492/bdb3b733-627b-4f13-adbb-2f2c4955d467)
 
 I am a full-stack developer. I am passionate about learning and using what I learn to make the world more accessible and equal to everyone.
 The technologies I mostly work with include Java, JavaScript, mySQL, HTML and CSS. 
